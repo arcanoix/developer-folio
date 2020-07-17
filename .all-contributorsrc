@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "thavoo",
+      "name": "Gustavo Herrera",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/36920441?v=4",
+      "profile": "https://www.facebook.com/thavoo.dev",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 4,
+  "projectName": "developerFolio",
+  "projectOwner": "thavoo",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
