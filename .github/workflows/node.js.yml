@@ -29,6 +29,4 @@ jobs:
           #key: ${{ secrets.SERVER_KEY }}
           password: ${{ secrets.SERVER_PASSWORD }}
           #port: 22
-          script: |
-            whoami
-            cd ${{ secrets.PROJECT_PATH }} && git pull
+          script: cd ${{ secrets.PROJECT_PATH }} && git pull
