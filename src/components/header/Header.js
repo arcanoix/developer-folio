@@ -40,7 +40,7 @@ function Header() {
             <a href="#blogs">Blogs</a>
           </li>
           <li>
-            <a href="#talks">Talks</a>
+            <a href="#talks" style="display:none">Talks</a>
           </li>
           <li>
             <a href="#contact">Contact Me</a>
