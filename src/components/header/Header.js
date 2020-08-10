@@ -39,9 +39,7 @@ function Header() {
           <li>
             <a href="#blogs">Blogs</a>
           </li>
-          <li>
-            <a href="#talks" style="display:none">Talks</a>
-          </li>
+        
           <li>
             <a href="#contact">Contact Me</a>
           </li>
